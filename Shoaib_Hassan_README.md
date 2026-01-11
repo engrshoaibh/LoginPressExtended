@@ -1,6 +1,6 @@
 # LoginPress Task Assessment - Documentation
 
-**Developer:** Your Name  
+**Developer:** Shoaib Hassan  
 **Date:** January 11, 2026  
 **Version:** 1.0.0
 
