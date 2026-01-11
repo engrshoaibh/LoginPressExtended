@@ -725,7 +725,6 @@ The choice of user meta over custom tables provides the right balance of simplic
 ---
 
 **Questions or Issues?**  
-Contact: your.email@example.com  
-GitHub: [your-github-username]  
-Support: [support-link]
+Contact: engrshoaibh@gmail.com  
+GitHub: engrshoaibh
 
